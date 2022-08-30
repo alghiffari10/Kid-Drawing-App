@@ -8,11 +8,16 @@
         <entry key="..\:/Raihan/Android Project/app/src/main/res/drawable/small.xml" value="0.1945" />
         <entry key="..\:/Raihan/Android Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Raihan/Android Project/app/src/main/res/layout/dialog_brush_size.xml" value="0.22826086956521738" />
+        <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/drawable/background_drawing_view_layout.xml" value="0.188" />
         <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/drawable/medium.xml" value="0.214" />
+        <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/drawable/pallet_eraser.xml" value="0.188" />
+        <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/drawable/pallet_eraser_click.xml" value="0.188" />
         <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/drawable/pallet_normal.xml" value="0.264" />
         <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/drawable/pallet_pressed.xml" value="0.152" />
         <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/layout/dialog_brush_size.xml" value="0.22826086956521738" />
+        <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/layout/dialog_custom_progress.xml" value="0.2536231884057971" />
+        <entry key="..\:/Raihan/kiddrawing-app/app/src/main/res/xml/path.xml" value="0.253125" />
       </map>
     </option>
   </component>

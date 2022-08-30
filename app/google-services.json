@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061589826682",
+    "project_id": "kid-drawing-app",
+    "storage_bucket": "kid-drawing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061589826682:android:99fffae288b7a482ea4fc3",
+        "android_client_info": {
+          "package_name": "ra.tutorial.kiddrawingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061589826682-c0ro065n38a6rqnpir9csp6p1qk3g86t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY7NJKxVid1AyBs8nAw16IZwa1jx3MakM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061589826682-c0ro065n38a6rqnpir9csp6p1qk3g86t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
